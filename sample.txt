@@ -1,0 +1,98 @@
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+1
+Enter record priority
+5
+Enter record data
+middle
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+1
+Enter record priority
+1
+Enter record data
+first
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+1
+Enter record priority
+10
+Enter record data
+last
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+3
+0
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+4
+Next record is first
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+5
+3
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+2
+Next element is middle
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+2
+Next element is last
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+2
+Queue is empty
+Select your option:
+ 1. Add record to queue
+ 2. Remove record to queue and display
+ 3. Check if priority queue is empty
+ 4. Peek at next record
+ 5. Count number of records
+ 6. Quit.
+6
